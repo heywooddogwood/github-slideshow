@@ -1,6 +1,6 @@
 ---
-Layout: slide
-Title: "Welcome to our second slide!"
+layout: slide
+title: "Welcome to our second slide!"
 ---
-Obviously this is the second slide
+"The scar had not pained Harry for nineteen years. All was well."
 Click the left arrow to go back!
